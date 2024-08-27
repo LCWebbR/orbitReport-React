@@ -2,6 +2,9 @@ h1,
 p {
   font-family: Montserrat, Arial, Helvetica, sans-serif;
   text-align: center;
+  background: #354a5f;
+  color: white;
+  font-size: x-large;
 }
 
 button {

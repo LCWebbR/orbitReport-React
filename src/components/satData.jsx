@@ -78,6 +78,14 @@ const satData = [
      launchDate: "1998-11-20",
      orbitType: "Low",
      operational: true
+   },
+   {
+    id: 10,
+    name: "James Webb",
+    type: "Telescope",
+    launchDate: "2021-12-25",
+    orbitType: "High",
+    operational: true
    }
  ];
  
